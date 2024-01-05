@@ -13,10 +13,10 @@ This week, we were supposed to set up our XAMPP for PHP. I faced a lot of issues
 - https://www.youtube.com/watch?v=-cASjkF94dc (How to Set Environment Variables in Mac)
 
 # Estimated Hours
-I spent about 8 hours on the Practical for Week 7.
+I spent about a day on the Practical for Week 7. There was a lot of troubleshooting especially because of the environment variables part because it was not working on Mac.
 
 # Content Insights
-I learnt about PHP coding and how to use if/else decision structures and repetition structures like for, while and foreach. It was pretty similar to Python and syntax was easy to grasp.
+I learnt about PHP coding and how to use if/else decision structures and repetition structures like for, while and foreach. It was pretty similar to Python and syntax was easy to grasp. I learnt from websites such as GeeksforGeeks and W3Schools etc, known widely for their clear way of explaining language-specific concepts.
 
 # Career/Employability/Learning Insights
-This greatly helps in building websites and 
+This greatly helps in building websites and helps us understand the backend ie. PHP coding. I think this will come in pretty handy in the future as it is a versatile language and can help in building websites exactly how we want them to be. It is also widely used in workplaces to build dynamic and highly interactive websites.
